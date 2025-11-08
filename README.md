@@ -7,7 +7,7 @@ SyntaxWear é um projeto de e-commerce de página única para uma loja de tênis
 O site apresenta um layout limpo e atraente, com as seguintes seções:
 
 *   **Cabeçalho:** Navegação fixa com links para as categorias de produtos, informações da loja e conta do usuário.
-*   **Herói:** Uma seção de destaque com uma imagem de fundo e chamadas para ação.
+*   **Hero:** Uma seção de destaque com uma imagem de fundo e chamadas para ação.
 *   **Categorias de Produtos:** Cards que representam as diferentes categorias de tênis disponíveis.
 *   **Grid de Produtos:** Um layout de grid para exibir os produtos em destaque.
 *   **Rodapé:** Informações de contato, links de navegação e um formulário de inscrição para newsletter.
